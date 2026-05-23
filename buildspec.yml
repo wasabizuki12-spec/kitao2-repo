@@ -1,7 +1,7 @@
 version: 0.2
 env:
   variables:
-    ECR_REPO_NAME: <ご自身のECRリポジトリ名を記載。両側の角カッコを含め削除してください。>
+    ECR_REPO_NAME: kitao-ripo
 phases:
   pre_build:
     commands:
